@@ -2,7 +2,6 @@
   <library name="Gradle: cglib:cglib:3.2.10">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.10/24af53869d7f1de2a0d2cd3d59c35386ea5a2b1a/cglib-3.2.10.jar!/" />
-      <root url="jar://D:/Soft/Software_Develop/QA/selenium-server-standalone-3.141.59.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
